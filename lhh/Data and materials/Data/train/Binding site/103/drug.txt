@@ -1,0 +1,6 @@
+3wgw_T2B_1_ligand
+   37    38     1     0     0
+SMALL
+NO_CHARGES
+
+

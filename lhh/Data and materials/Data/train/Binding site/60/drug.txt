@@ -1,0 +1,6 @@
+3b6c_SDN_2_ligand
+   34    36     1     0     0
+SMALL
+NO_CHARGES
+
+

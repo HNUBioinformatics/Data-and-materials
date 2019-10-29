@@ -1,0 +1,6 @@
+2j4a_OEF_1_ligand
+   41    42     1     0     0
+SMALL
+NO_CHARGES
+
+

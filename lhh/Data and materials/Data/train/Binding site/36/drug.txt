@@ -1,0 +1,6 @@
+2j4d_MHF_1_ligand
+   54    57     1     0     0
+SMALL
+NO_CHARGES
+
+

@@ -1,0 +1,6 @@
+3l3m_A92_1_ligand
+   45    48     1     0     0
+SMALL
+NO_CHARGES
+
+

@@ -1,0 +1,46 @@
+#    Name: 26370
+#    Modification time : Tue Aug  8 23:17:01 2017
+
+@<TRIPOS>MOLECULE
+26370
+   19     0    12     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          48.0910   56.4390   12.4190 N.am      1 SEL1        0.0000 
+      2 O          45.8970   50.1520    8.6260 O.2       2 ALL2        0.0000 
+      3 CA         47.7300   53.9910    9.8530 C.3       3 GLL5        0.0000 
+      4 CA         46.7960   53.0780    9.4240 C.3       3 GLL5        0.0000 
+      5 CA         46.3920   47.8550    8.6730 C.3       3 GLL5        0.0000 
+      6 CZ         47.9757   53.2400    8.7198 C.ar      4 PHL6        0.0000 
+      7 N          45.7790   56.3440   13.7000 N.am      5 SEP1        0.0000 
+      8 N          48.3070   59.3890   13.2390 N.am      5 SEP1        0.0000 
+      9 O          45.5380   50.0370   11.7370 O.2       6 ALP2        0.0000 
+     10 CA         44.8510   55.7640    8.5590 C.3       7 GLP5        0.0000 
+     11 CA         45.4910   45.1650    5.9550 C.3       7 GLP5        0.0000 
+     12 CZ         47.3858   56.2122    7.2057 C.ar      8 PHP6        0.0000 
+     13 N          46.9350   56.3915   13.0595 N.am      9 SEC1        0.0000 
+     14 N          48.1990   57.9140   12.8290 N.am      9 SEC1        0.0000 
+     15 O          45.7175   50.0945   10.1815 O.2      10 ALC2        0.0000 
+     16 CA         46.5805   54.9165    9.0267 C.3      11 GLC5        0.0000 
+     17 CA         45.8865   54.2345    8.7092 C.3      11 GLC5        0.0000 
+     18 CA         45.5658   46.5517    7.3063 C.3      11 GLC5        0.0000 
+     19 CZ         47.6807   54.7261    7.9627 C.ar     12 PHC6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SEL1        1 GROUP        1 Z    SEL  0     ROOT SEL Z 0
+     2 ALL2        2 GROUP        1 Z    ALL  0     **** ALL Z 1
+     3 GLL5        3 GROUP        1 Z    GLL  0     **** GLL Z 4
+     4 PHL6        6 GROUP        1 Z    PHL  0     **** PHL Z 6
+     5 SEP1        7 GROUP        1 Z    SEP  0     **** SEP Z 7
+     6 ALP2        9 GROUP        1 Z    ALP  0     **** ALP Z 8
+     7 GLP5       10 GROUP        1 Z    GLP  0     **** GLP Z 11
+     8 PHP6       12 GROUP        1 Z    PHP  0     **** PHP Z 13
+     9 SEC1       13 GROUP        1 Z    SEC  0     **** SEC Z 14
+    10 ALC2       15 GROUP        1 Z    ALC  0     **** ALC Z 15
+    11 GLC5       16 GROUP        1 Z    GLC  0     **** GLC Z 18
+    12 PHC6       19 GROUP        1 Z    PHC  0     **** PHC Z 20
+@<TRIPOS>SET
+

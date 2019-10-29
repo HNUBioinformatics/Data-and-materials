@@ -1,0 +1,6 @@
+2puf_GUN_1_ligand
+   16    17     1     0     0
+SMALL
+NO_CHARGES
+
+

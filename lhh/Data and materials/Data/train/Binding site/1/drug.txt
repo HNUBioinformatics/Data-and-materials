@@ -1,0 +1,6 @@
+1bdi_HPA_1_ligand
+   14    15     1     0     0
+SMALL
+NO_CHARGES
+
+

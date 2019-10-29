@@ -1,0 +1,39 @@
+#    Name: 9872
+#    Modification time : Tue Aug  8 21:13:48 2017
+
+@<TRIPOS>MOLECULE
+9872
+   15     0     9     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          56.5410    2.4330  -11.1750 N.am      1 SEL1        0.0000 
+      2 N          55.6070    3.5550  -12.9200 N.am      1 SEL1        0.0000 
+      3 O          58.5250    5.7020  -10.1030 O.2       2 ALL2        0.0000 
+      4 CZ         57.7908    5.4698  -10.9886 C.ar      3 PHL6        0.0000 
+      5 N          55.2460    1.1100  -13.8730 N.am      4 SEP1        0.0000 
+      6 N          55.2840    2.4330  -15.7690 N.am      4 SEP1        0.0000 
+      7 O          60.5960    6.6710   -8.3120 O.2       5 ALP2        0.0000 
+      8 CZ         56.3292    7.2583   -8.3175 C.ar      6 PHP6        0.0000 
+      9 CZ         59.7225    3.5280  -13.4327 C.ar      6 PHP6        0.0000 
+     10 N          55.8935    1.7715  -12.5240 N.am      7 SEC1        0.0000 
+     11 N          55.4455    2.9940  -14.3445 N.am      7 SEC1        0.0000 
+     12 N          55.4265    2.3325  -13.3965 N.am      7 SEC1        0.0000 
+     13 O          59.5605    6.1865   -9.2075 O.2       8 ALC2        0.0000 
+     14 CZ         57.0600    6.3641   -9.6531 C.ar      9 PHC6        0.0000 
+     15 CZ         58.7567    4.4989  -12.2106 C.ar      9 PHC6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SEL1        1 GROUP        1 Z    SEL  0     ROOT SEL Z 0
+     2 ALL2        3 GROUP        1 Z    ALL  0     **** ALL Z 1
+     3 PHL6        4 GROUP        1 Z    PHL  0     **** PHL Z 6
+     4 SEP1        5 GROUP        1 Z    SEP  0     **** SEP Z 7
+     5 ALP2        7 GROUP        1 Z    ALP  0     **** ALP Z 8
+     6 PHP6        8 GROUP        1 Z    PHP  0     **** PHP Z 13
+     7 SEC1       10 GROUP        1 Z    SEC  0     **** SEC Z 14
+     8 ALC2       13 GROUP        1 Z    ALC  0     **** ALC Z 15
+     9 PHC6       14 GROUP        1 Z    PHC  0     **** PHC Z 20
+@<TRIPOS>SET
+

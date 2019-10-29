@@ -1,0 +1,6 @@
+2rfi_SAH_2_ligand
+   46    48     1     0     0
+SMALL
+NO_CHARGES
+
+

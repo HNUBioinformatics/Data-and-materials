@@ -1,0 +1,6 @@
+1xv9_CI2_1_ligand
+   55    58     1     0     0
+SMALL
+NO_CHARGES
+
+

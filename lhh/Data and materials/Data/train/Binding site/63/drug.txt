@@ -1,0 +1,6 @@
+3br2_DEQ_1_ligand
+   74    77     1     0     0
+SMALL
+NO_CHARGES
+
+

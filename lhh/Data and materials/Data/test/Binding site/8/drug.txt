@@ -1,0 +1,6 @@
+2vut_NAD_2_ligand
+   70    74     1     0     0
+SMALL
+NO_CHARGES
+
+

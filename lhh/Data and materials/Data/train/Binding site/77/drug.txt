@@ -1,0 +1,6 @@
+3gbk_2PQ_1_ligand
+   84    88     1     0     0
+SMALL
+NO_CHARGES
+
+

@@ -1,0 +1,6 @@
+1uhl_MEI_1_ligand
+   46    45     1     0     0
+SMALL
+NO_CHARGES
+
+

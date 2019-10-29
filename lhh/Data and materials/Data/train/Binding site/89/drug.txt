@@ -1,0 +1,6 @@
+3jpu_TY4_2_ligand
+   45    47     1     0     0
+SMALL
+NO_CHARGES
+
+

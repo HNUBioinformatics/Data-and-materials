@@ -1,0 +1,6 @@
+2ijg_FAD_2_ligand
+   84    89     1     0     0
+SMALL
+NO_CHARGES
+
+

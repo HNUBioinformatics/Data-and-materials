@@ -1,0 +1,6 @@
+3ikt_NAD_1_ligand
+   70    74     1     0     0
+SMALL
+NO_CHARGES
+
+

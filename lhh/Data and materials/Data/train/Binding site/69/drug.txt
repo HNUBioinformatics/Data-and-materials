@@ -1,0 +1,6 @@
+3d6y_BER_1_ligand
+   43    47     1     0     0
+SMALL
+NO_CHARGES
+
+

@@ -1,0 +1,6 @@
+1ng9_ADP_1_ligand
+   39    41     1     0     0
+SMALL
+NO_CHARGES
+
+

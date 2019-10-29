@@ -1,0 +1,6 @@
+3d70_IMD_1_ligand
+    9     9     1     0     0
+SMALL
+NO_CHARGES
+
+

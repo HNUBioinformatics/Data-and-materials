@@ -1,0 +1,6 @@
+4y17_LAE_3_ligand
+   36    36     1     0     0
+SMALL
+NO_CHARGES
+
+

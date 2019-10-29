@@ -1,0 +1,6 @@
+3cbp_SFG_1_ligand
+   50    52     1     0     0
+SMALL
+NO_CHARGES
+
+

@@ -1,0 +1,21 @@
+#    Name: 24115
+#    Modification time : Wed Aug  9 01:29:31 2017
+
+@<TRIPOS>MOLECULE
+24115
+    3     0     3     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 O         -31.3490  102.1160  -48.2720 O.2       1 ALL2        0.0000 
+      2 O         -31.9490  103.6610  -50.2380 O.2       2 ALP2        0.0000 
+      3 O         -31.6490  102.8885  -49.2550 O.2       3 ALC2        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 ALL2        1 GROUP        1 Z    ALL  0     ROOT ALL Z 1
+     2 ALP2        2 GROUP        1 Z    ALP  0     **** ALP Z 8
+     3 ALC2        3 GROUP        1 Z    ALC  0     **** ALC Z 15
+@<TRIPOS>SET
+

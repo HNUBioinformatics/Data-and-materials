@@ -1,0 +1,40 @@
+#    Name: 17791
+#    Modification time : Tue Aug  8 20:52:18 2017
+
+@<TRIPOS>MOLECULE
+17791
+   16     0     9     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N          56.9580    6.2620  -11.8560 N.am      1 SEL1        0.0000 
+      2 N          55.2500    3.7700  -12.4340 N.am      1 SEL1        0.0000 
+      3 O          58.6790    6.0580  -10.4440 O.2       2 ALL2        0.0000 
+      4 CZ         57.7428    5.7930  -11.0966 C.ar      3 PHL6        0.0000 
+      5 N          56.8960    7.0530  -14.4890 N.am      4 SEP1        0.0000 
+      6 N          55.3010    5.0280  -15.3950 N.am      4 SEP1        0.0000 
+      7 O          60.7130    6.5710   -8.2200 O.2       5 ALP2        0.0000 
+      8 O          60.4490    8.6270   -8.9400 O.2       5 ALP2        0.0000 
+      9 CZ         56.3400    7.3445   -8.3845 C.ar      6 PHP6        0.0000 
+     10 CZ         59.7545    3.6047  -13.2752 C.ar      6 PHP6        0.0000 
+     11 N          56.9270    6.6575  -13.1725 N.am      7 SEC1        0.0000 
+     12 N          55.2755    4.3990  -13.9145 N.am      7 SEC1        0.0000 
+     13 O          59.6960    6.3145   -9.3320 O.2       8 ALC2        0.0000 
+     14 O          59.5640    7.3425   -9.6920 O.2       8 ALC2        0.0000 
+     15 CZ         57.0414    6.5688   -9.7406 C.ar      9 PHC6        0.0000 
+     16 CZ         58.7487    4.6988  -12.1859 C.ar      9 PHC6        0.0000 
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 SEL1        1 GROUP        1 Z    SEL  0     ROOT SEL Z 0
+     2 ALL2        3 GROUP        1 Z    ALL  0     **** ALL Z 1
+     3 PHL6        4 GROUP        1 Z    PHL  0     **** PHL Z 6
+     4 SEP1        5 GROUP        1 Z    SEP  0     **** SEP Z 7
+     5 ALP2        7 GROUP        1 Z    ALP  0     **** ALP Z 8
+     6 PHP6        9 GROUP        1 Z    PHP  0     **** PHP Z 13
+     7 SEC1       11 GROUP        1 Z    SEC  0     **** SEC Z 14
+     8 ALC2       13 GROUP        1 Z    ALC  0     **** ALC Z 15
+     9 PHC6       15 GROUP        1 Z    PHC  0     **** PHC Z 20
+@<TRIPOS>SET
+

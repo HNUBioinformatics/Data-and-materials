@@ -1,0 +1,6 @@
+2vuk_P83_1_ligand
+   37    39     1     0     0
+SMALL
+NO_CHARGES
+
+

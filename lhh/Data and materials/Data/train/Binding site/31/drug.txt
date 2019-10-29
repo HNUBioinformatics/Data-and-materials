@@ -1,0 +1,6 @@
+2hvc_LGD_1_ligand
+   35    36     1     0     0
+SMALL
+NO_CHARGES
+
+

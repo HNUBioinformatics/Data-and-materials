@@ -1,0 +1,6 @@
+5f54_TMP_1_ligand
+   34    35     1     0     0
+SMALL
+NO_CHARGES
+
+

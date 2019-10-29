@@ -1,0 +1,6 @@
+3g6x_DGT_1_ligand
+   43    45     1     0     0
+SMALL
+NO_CHARGES
+
+

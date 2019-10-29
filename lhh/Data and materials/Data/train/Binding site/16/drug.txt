@@ -1,0 +1,6 @@
+1qtm_TTP_1_ligand
+   41    42     1     0     0
+SMALL
+NO_CHARGES
+
+

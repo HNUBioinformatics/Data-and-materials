@@ -1,0 +1,6 @@
+1vpw_HPA_1_ligand
+   15    16     1     0     0
+SMALL
+NO_CHARGES
+
+

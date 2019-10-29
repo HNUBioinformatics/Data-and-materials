@@ -1,0 +1,6 @@
+3o8g_O8G_1_ligand
+   36    38     1     0     0
+SMALL
+NO_CHARGES
+
+

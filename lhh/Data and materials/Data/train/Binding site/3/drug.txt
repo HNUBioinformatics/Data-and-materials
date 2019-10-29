@@ -1,0 +1,6 @@
+1g6n_CMP_1_ligand
+   34    37     1     0     0
+SMALL
+NO_CHARGES
+
+

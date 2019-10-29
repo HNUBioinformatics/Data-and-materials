@@ -1,0 +1,6 @@
+3hgg_CHD_1_ligand
+   68    71     1     0     0
+SMALL
+NO_CHARGES
+
+

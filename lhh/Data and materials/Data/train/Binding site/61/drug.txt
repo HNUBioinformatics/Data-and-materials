@@ -1,0 +1,6 @@
+3bej_MUF_1_ligand
+   62    66     1     0     0
+SMALL
+NO_CHARGES
+
+

@@ -1,0 +1,6 @@
+1w5t_ANP_2_ligand
+   44    46     1     0     0
+SMALL
+NO_CHARGES
+
+

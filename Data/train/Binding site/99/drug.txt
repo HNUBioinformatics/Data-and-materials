@@ -1,6 +1,0 @@
-3qp6_HL6_1_ligand
-   31    31     1     0     0
-SMALL
-NO_CHARGES
-
-

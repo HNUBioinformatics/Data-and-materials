@@ -1,6 +1,0 @@
-1r5k_GW5_1_ligand
-   48    50     1     0     0
-SMALL
-NO_CHARGES
-
-

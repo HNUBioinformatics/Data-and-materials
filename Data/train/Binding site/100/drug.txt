@@ -1,6 +1,0 @@
-3qqa_TCH_1_ligand
-   79    82     1     0     0
-SMALL
-NO_CHARGES
-
-

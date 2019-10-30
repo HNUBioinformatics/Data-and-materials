@@ -1,6 +1,0 @@
-3ipu_O40_1_ligand
-   57    59     1     0     0
-SMALL
-NO_CHARGES
-
-

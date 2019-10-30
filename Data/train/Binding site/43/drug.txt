@@ -1,6 +1,0 @@
-2uxh_QUE_1_ligand
-   32    34     1     0     0
-SMALL
-NO_CHARGES
-
-

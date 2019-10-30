@@ -1,6 +1,0 @@
-3fal_REA_3_ligand
-   49    49     1     0     0
-SMALL
-NO_CHARGES
-
-

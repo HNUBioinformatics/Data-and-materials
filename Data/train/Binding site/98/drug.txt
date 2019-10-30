@@ -1,6 +1,0 @@
-3q23_G2P_1_ligand
-   46    48     1     0     0
-SMALL
-NO_CHARGES
-
-

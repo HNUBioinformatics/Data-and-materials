@@ -1,6 +1,0 @@
-2vuu_NAP_4_ligand
-   73    77     1     0     0
-SMALL
-NO_CHARGES
-
-

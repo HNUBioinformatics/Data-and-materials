@@ -1,6 +1,0 @@
-4bjx_73B_1_ligand
-   53    56     1     0     0
-SMALL
-NO_CHARGES
-
-

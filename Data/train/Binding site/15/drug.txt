@@ -1,6 +1,0 @@
-1qsy_DDS_1_ligand
-   41    43     1     0     0
-SMALL
-NO_CHARGES
-
-

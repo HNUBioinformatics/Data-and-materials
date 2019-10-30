@@ -1,6 +1,0 @@
-2zr9_DTP_1_ligand
-   42    44     1     0     0
-SMALL
-NO_CHARGES
-
-

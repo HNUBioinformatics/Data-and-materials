@@ -1,6 +1,0 @@
-3a78_3EV_1_ligand
-   74    76     1     0     0
-SMALL
-NO_CHARGES
-
-

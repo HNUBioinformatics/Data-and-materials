@@ -1,6 +1,0 @@
-2bj4_OHT_1_ligand
-   59    61     1     0     0
-SMALL
-NO_CHARGES
-
-

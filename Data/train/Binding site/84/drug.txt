@@ -1,6 +1,0 @@
-3iid_APR_1_ligand
-   57    60     1     0     0
-SMALL
-NO_CHARGES
-
-

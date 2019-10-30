@@ -1,6 +1,0 @@
-2j0v_GDP_4_ligand
-   41    43     1     0     0
-SMALL
-NO_CHARGES
-
-

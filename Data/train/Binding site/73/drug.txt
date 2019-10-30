@@ -1,6 +1,0 @@
-3frq_ERY_1_ligand
-  119   121     1     0     0
-SMALL
-NO_CHARGES
-
-

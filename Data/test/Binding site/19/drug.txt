@@ -1,6 +1,0 @@
-4ft8_CMP_2_ligand
-   34    37     1     0     0
-SMALL
-NO_CHARGES
-
-

@@ -1,6 +1,0 @@
-1gwr_EST_1_ligand
-   44    47     1     0     0
-SMALL
-NO_CHARGES
-
-

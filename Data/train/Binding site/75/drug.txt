@@ -1,6 +1,0 @@
-3g1o_RF1_1_ligand
-   44    46     1     0     0
-SMALL
-NO_CHARGES
-
-

@@ -1,6 +1,0 @@
-2jfa_RAL_2_ligand
-   62    66     1     0     0
-SMALL
-NO_CHARGES
-
-

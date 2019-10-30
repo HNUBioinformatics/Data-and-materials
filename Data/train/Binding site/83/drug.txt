@@ -1,6 +1,0 @@
-3i59_N6R_1_ligand
-   53    57     1     0     0
-SMALL
-NO_CHARGES
-
-

@@ -1,6 +1,0 @@
-2zla_VDB_1_ligand
-   80    82     1     0     0
-SMALL
-NO_CHARGES
-
-

@@ -1,6 +1,0 @@
-3dr1_C5D_1_ligand
-   65    66     1     0     0
-SMALL
-NO_CHARGES
-
-

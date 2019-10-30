@@ -1,6 +1,0 @@
-3sfi_3SF_1_ligand
-   42    44     1     0     0
-SMALL
-NO_CHARGES
-
-

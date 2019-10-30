@@ -1,6 +1,0 @@
-5f56_ALA_ASP_LEU_PRO_PHE_1_ligand
-   78    79     5     0     0
-SMALL
-NO_CHARGES
-
-

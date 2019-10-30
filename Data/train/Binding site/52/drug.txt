@@ -1,6 +1,0 @@
-2y7p_SAL_1_ligand
-   15    15     1     0     0
-SMALL
-NO_CHARGES
-
-

@@ -1,6 +1,0 @@
-2rcw_AAI_1_ligand
-   44    46     1     0     0
-SMALL
-NO_CHARGES
-
-

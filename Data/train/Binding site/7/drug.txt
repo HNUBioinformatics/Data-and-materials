@@ -1,6 +1,0 @@
-1i6x_CMP_1_ligand
-   34    37     1     0     0
-SMALL
-NO_CHARGES
-
-

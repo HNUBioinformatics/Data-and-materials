@@ -1,6 +1,0 @@
-3hq5_GKK_1_ligand
-   47    49     1     0     0
-SMALL
-NO_CHARGES
-
-

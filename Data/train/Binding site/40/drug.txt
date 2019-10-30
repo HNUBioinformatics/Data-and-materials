@@ -1,6 +1,0 @@
-2qpy_DHT_1_ligand
-   51    54     1     0     0
-SMALL
-NO_CHARGES
-
-

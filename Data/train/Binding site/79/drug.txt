@@ -1,6 +1,0 @@
-3gn7_3GN_1_ligand
-   35    37     1     0     0
-SMALL
-NO_CHARGES
-
-

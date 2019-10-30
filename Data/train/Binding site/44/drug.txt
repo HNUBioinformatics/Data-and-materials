@@ -1,6 +1,0 @@
-2uxi_G50_2_ligand
-   34    35     1     0     0
-SMALL
-NO_CHARGES
-
-

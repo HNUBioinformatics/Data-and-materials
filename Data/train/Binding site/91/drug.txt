@@ -1,6 +1,0 @@
-3kcc_CMP_3_ligand
-   34    37     1     0     0
-SMALL
-NO_CHARGES
-
-

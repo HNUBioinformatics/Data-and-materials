@@ -1,6 +1,0 @@
-3p7n_FMN_2_ligand
-   50    52     1     0     0
-SMALL
-NO_CHARGES
-
-

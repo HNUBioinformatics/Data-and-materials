@@ -1,6 +1,0 @@
-2zre_AGS_1_ligand
-   43    45     1     0     0
-SMALL
-NO_CHARGES
-
-

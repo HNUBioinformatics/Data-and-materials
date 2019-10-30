@@ -1,6 +1,0 @@
-2zl9_VDA_1_ligand
-   84    86     1     0     0
-SMALL
-NO_CHARGES
-
-

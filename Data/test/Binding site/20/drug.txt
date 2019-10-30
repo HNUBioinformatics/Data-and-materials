@@ -1,6 +1,0 @@
-4yxm_2BA_1_ligand
-   68    74     1     0     0
-SMALL
-NO_CHARGES
-
-

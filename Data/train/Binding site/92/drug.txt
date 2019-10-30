@@ -1,6 +1,0 @@
-3kyt_HC2_1_ligand
-   75    78     1     0     0
-SMALL
-NO_CHARGES
-
-

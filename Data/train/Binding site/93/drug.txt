@@ -1,6 +1,0 @@
-3l3l_L3L_1_ligand
-   37    39     1     0     0
-SMALL
-NO_CHARGES
-
-

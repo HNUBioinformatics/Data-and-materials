@@ -1,6 +1,0 @@
-3gjw_GJW_1_ligand
-   38    41     1     0     0
-SMALL
-NO_CHARGES
-
-

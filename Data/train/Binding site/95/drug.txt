@@ -1,6 +1,0 @@
-3lmp_CEK_1_ligand
-   59    63     1     0     0
-SMALL
-NO_CHARGES
-
-

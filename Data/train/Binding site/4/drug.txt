@@ -1,6 +1,0 @@
-1gwq_ZTW_1_ligand
-   27    29     1     0     0
-SMALL
-NO_CHARGES
-
-

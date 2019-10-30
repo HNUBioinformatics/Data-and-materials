@@ -1,6 +1,0 @@
-1xvp_CID_1_ligand
-   39    42     1     0     0
-SMALL
-NO_CHARGES
-
-

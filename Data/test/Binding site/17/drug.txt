@@ -1,6 +1,0 @@
-3k0a_ATP_6_ligand
-   43    45     1     0     0
-SMALL
-NO_CHARGES
-
-

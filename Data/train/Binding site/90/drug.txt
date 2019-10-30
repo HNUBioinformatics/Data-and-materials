@@ -1,6 +1,0 @@
-3k0f_ATP_4_ligand
-   43    45     1     0     0
-SMALL
-NO_CHARGES
-
-
